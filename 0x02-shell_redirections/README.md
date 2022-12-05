@@ -1,1 +1,1 @@
-hello world
+shell i/o redirections
