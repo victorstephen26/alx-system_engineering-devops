@@ -1,39 +1,22 @@
-# 0x04. Loops, conditions and parsing
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2019/08/devops-architecture-1.png" width="1500" height="300">
 
-## Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+## What's DevOps
+DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
 
-## General
-* How to create SSH keys
-* What is the advantage of using #!/usr/bin/env bash over #!/bin/bash
-* How to use while, until and for loops
-* How to use if, else, elif and case condition statements
-* How to use the cut command
-* What are files and other comparison operators, and how to use them
+## ***Everything you need to know about DevOps...***
+* DevOps is a set of practices that combines software development (Dev) and information technology operations (Ops) to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps enables organizations to better serve their customers and compete more effectively in the market by breaking down silos between development and operations teams, enabling faster and more efficient delivery of software.
 
-# Requirements
+* The key principles of DevOps include automation, collaboration, monitoring, and measurement. Automation involves automating as much of the software development process as possible to reduce manual errors and increase efficiency. Collaboration involves breaking down silos between development and operations teams, promoting cross-functional communication and teamwork. Monitoring involves continuously monitoring the software development process and application performance to identify and address issues as quickly as possible. Measurement involves collecting and analyzing data to measure performance and identify areas for improvement.
 
-## General
+## ***DevOps Tools...***
+<!--![DevOps Tools](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUNLscAlbR-vZh4AupxD8YmZMHsIUE9R2eYA&usqp=CAU)
+![DevOps Tools](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4bS0rsaVVoKhAbrIAc2uBjQ_1XqiaXvmHxw&usqp=CAU)-->
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4bS0rsaVVoKhAbrIAc2uBjQ_1XqiaXvmHxw&usqp=CAU" width="1500" height="300">
 
-* Allowed editors: vi, vim, emacs
-* All your files will be interpreted on Ubuntu 20.04 LTS
-* All your files should end with a new line
-* A README.md file, at the root of the folder of the project, is mandatory
-* All your Bash script files must be executable
-* You are not allowed to use awk
-* Your Bash script must pass Shellcheck (version 0.7.0) without any error
-* The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
-* The second line of all your Bash scripts should be a comment explaining what is the script doing
+* Some common DevOps tools and technologies include continuous integration and continuous delivery (CI/CD), containerization (using tools like Docker and Kubernetes), infrastructure as code (IaC), and cloud computing. DevOps also involves cultural and organizational changes, including creating a culture of trust and collaboration, empowering teams to take ownership of their work, and embracing failure as an opportunity to learn and improve.
 
-#  Copyright - Plagiarism
+* Overall, DevOps enables organizations to deliver software more quickly and reliably, while improving the quality of their products and services and enabling them to stay competitive in a rapidly changing market.
 
-* You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
-* You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
-* You are not allowed to publish any content of this project.
-* Any form of plagiarism is strictly forbidden and will result in removal from the program.
-
-# More Info
-
-## Shellcheck
-
-`Shellcheck` is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about. Shellcheck is your friend! All your Bash scripts must pass Shellcheck without any error or you will not get any points on the task.we will get there
+## Author
+© ___[STEPHEN VICTOR IKECHUKWU](https://github.com/victorstephen26)___
+ is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about. Shellcheck is your friend! All your Bash scripts must pass Shellcheck without any error or you will not get any points on the task.we will get there
