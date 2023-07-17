@@ -209,6 +209,8 @@ Check HSTS list
 DNS lookup
 ----------
 
+<img src="http://i.imgur.com/i9ivkdo.png" width="1500" height="400">
+
 * Browser checks if the domain is in its cache. (to see the DNS Cache in
   Chrome, go to `chrome://net-internals/#dns <chrome://net-internals/#dns>`_).
 * If not found, the browser calls ``gethostbyname`` library function (varies by
