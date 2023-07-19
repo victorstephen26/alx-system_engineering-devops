@@ -1,6 +1,6 @@
 # Firewall
 
-<img src="https://previews.123rf.com/images/aurielaki/aurielaki1706/aurielaki170600036/80953713-network-security-concept-with-firewall-blocks-cyber-attack-flat-isometric-vector-illustration.jpg" width="1500" height="300">
+<img src="https://previews.123rf.com/images/aurielaki/aurielaki1706/aurielaki170600036/80953713-network-security-concept-with-firewall-blocks-cyber-attack-flat-isometric-vector-illustration.jpg" width="1000" height="500">
 
 > A firewall is a network security device that monitors incoming and outgoing network traffic and permits or blocks data packets based on a set of security rules. Its purpose is to establish a barrier between your internal network (LAN) and incoming traffic from external sources (such as the internet) in order to block malicious traffic like viruses and hackers.
 
